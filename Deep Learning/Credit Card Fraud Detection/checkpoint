@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/sensei/Desktop/project2/rbm_model.ckpt"
+all_model_checkpoint_paths: "/Users/sensei/Desktop/project2/rbm_model.ckpt"

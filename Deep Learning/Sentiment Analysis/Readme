@@ -1,0 +1,9 @@
+
+Steps for running main.py
+
+1) Place the idsMatrix, wordList and wordVectors files in appropriate location and change the path in code accordingly.
+2) Follow step 2 for placing models folder and change the path of the code accordingly.
+3) Seperate model folder contains the pre-trained model of 100,000 iterations.
+4) Uncomment the code for training the data.
+
+Code Link: https://github.com/adeshpande3/LSTM-Sentiment-Analysis
