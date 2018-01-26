@@ -1,5 +1,5 @@
 # UB CourseWork Projects
-##  Challenging projects covering various field computer science such as Algorithms, Software and Information Systems, Networking and Artificial Intellignece
+##  Challenging projects covering various field computer science such as Algorithms, Software and Information Systems, Networking and Artificial Intelligence
 
 ### Algorithms : Parallel and Sequential Algorithms
 ### Artificial Intelligence: Machine Learning, Computer Vision and Image Processing, Deep Learning
