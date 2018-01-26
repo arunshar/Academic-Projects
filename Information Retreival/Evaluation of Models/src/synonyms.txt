@@ -1,0 +1,23 @@
+Army,Military
+Russia,Россия,Russland
+us,unitedstates
+Syria,Сирия,Syrien
+dropped,за,gelöscht
+Ammo,Патроны,Munition
+Refugee,Беженцев,Flüchtling,Flüchtlings
+Iranian,Ирана,Iranische
+Greek,Греческий,Griechisch
+campaigns,кампаний,Kampagnen
+Palestinian,Палестинские,Palästinensische
+terrorist,террорист,Terroristen
+rights,прав,Rechte
+Flüchtlingskrise,Refugee crisis,Кризис беженцев
+Deutschland,Germany,Германия
+Сирии,Syria,Syrien
+Dresden,Дрезден
+Hezbollah,Hisbollah,Хезболла
+civil,гражданского,bürgerlich
+war,Krieg,война
+Putin,путин
+Obama,обаму
+police,полицией
