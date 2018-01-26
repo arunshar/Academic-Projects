@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Apr 14 23:56:53 EDT 2017
+2.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+8.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_simple_dht_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/bhedavivek/Desktop/test/SimpleDht/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_simple_dht_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

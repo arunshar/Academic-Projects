@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:7:22-72
+uses-sdk
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:12:5-30:19
+	android:label
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:16:9-40
+activity#edu.buffalo.cse.cse486586.simpledht.SimpleDhtActivity
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:18:13-81
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:23:27-74
+provider#edu.buffalo.cse.cse486586.simpledht.SimpleDhtProvider
+ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:27:9-28:82
+	android:authorities
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:28:13-79
+	android:name
+		ADDED from /home/bhedavivek/Desktop/test/SimpleDht/app/src/main/AndroidManifest.xml:27:19-87

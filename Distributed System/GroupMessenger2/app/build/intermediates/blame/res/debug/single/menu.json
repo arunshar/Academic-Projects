@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jarvis/AndroidStudioProjects/GroupMessenger2/C:\\Users\\Arun\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_group_messenger.xml",
+        "source": "/home/jarvis/AndroidStudioProjects/GroupMessenger2/C:\\Users\\Arun\\AndroidStudioProjects\\GroupMessenger2\\app\\src\\main\\res\\menu\\activity_group_messenger.xml"
+    },
+    {
+        "merged": "/Users/krypton/Downloads/GroupMessenger2/app/build/intermediates/res/merged/debug/menu/activity_group_messenger.xml",
+        "source": "/Users/krypton/Downloads/GroupMessenger2/app/src/main/res/menu/activity_group_messenger.xml"
+    },
+    {
+        "merged": "/home/jarvis/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/merged/debug/menu/activity_group_messenger.xml",
+        "source": "/home/jarvis/AndroidStudioProjects/GroupMessenger2/app/src/main/res/menu/activity_group_messenger.xml"
+    }
+]

@@ -1,0 +1,1 @@
+/Users/arunsharma/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/classes/debug
